@@ -1,0 +1,8 @@
+setup.py
+pyjirou/__init__.py
+pyjirou/main.py
+pyjirou.egg-info/PKG-INFO
+pyjirou.egg-info/SOURCES.txt
+pyjirou.egg-info/dependency_links.txt
+pyjirou.egg-info/requires.txt
+pyjirou.egg-info/top_level.txt

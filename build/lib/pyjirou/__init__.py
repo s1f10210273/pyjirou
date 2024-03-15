@@ -1,0 +1,1 @@
+from pyjirou.main import jiro
