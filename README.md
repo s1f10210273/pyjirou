@@ -4,7 +4,7 @@ pyjirouは緯度経度で、その場所から最も近いラーメン二郎を�
 ## 使い方
 ### インストール
 ```sh
-pip install git+https://github.com/s1f10210273/pyjirou
+pip install git+https://github.com/s1f10210273/pyjirou.git
 ```
 
 ### インポート
