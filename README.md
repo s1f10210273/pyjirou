@@ -17,12 +17,9 @@ import pyjirou
 pyjirou.jiro([経度], [緯度])
 ```
 ## 例
-```python
-import pyjirou
-
-print(pyjirou.jiro(139.698318, 35.696323))
-```
 ```sh
+>>> import pyjirou
+>>> pyjirou.jiro(139.698318, 35.696323)
 shop_name    ラーメン二郎 新宿小滝橋通り店
 address       東京都新宿区西新宿7-5-5
 lat                35.696323
